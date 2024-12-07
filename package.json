@@ -1,0 +1,26 @@
+{
+  "name": "fileflow",
+  "version": "1.0.0",
+  "description": "FileFlow - A simple file upload and sharing app with QR code support",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "qrcode": "^1.5.4"
+  },
+  "keywords": [
+    "file upload",
+    "express",
+    "multer",
+    "QR code",
+    "file sharing"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
